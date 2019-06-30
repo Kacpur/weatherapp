@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/gradient_shape_first"
+        android:duration="7500"/>
+
+    <item
+            android:drawable="@drawable/gradient_shape_second"
+            android:duration="7500"/>
+
+    <item
+            android:drawable="@drawable/gradient_shape_third"
+            android:duration="7500"/>
+
+    <item
+            android:drawable="@drawable/gradient_shape_fourth"
+            android:duration="7500"/>
+
+    <item
+            android:drawable="@drawable/gradient_shape_fifth"
+            android:duration="7500"/>
+
+</animation-list>

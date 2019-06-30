@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#396afc</color>
+    <color name="colorPrimaryDark">#01554A</color>
+    <color name="colorAccent">#4BB7FF</color>
+    <color name="card_color">#FFFFFF</color>
+    <color name="first_gradient_start">#26d0ce</color>
+    <color name="first_gradient_end">#1a2980</color>
+    <color name="second_gradient_start">#6DD5FA</color>
+    <color name="second_gradient_end">#2980B9</color>
+    <color name="third_gradient_start">#0083B0</color>
+    <color name="third_gradient_end">#00B4DB</color>
+    <color name="fourth_gradient_start">#FFFDE4</color>
+    <color name="fourth_gradient_end">#005AA7</color>
+    <color name="fifth_gradient_start">#f2fcfe</color>
+    <color name="fifth_gradient_end">#1c92d2</color>
+</resources>

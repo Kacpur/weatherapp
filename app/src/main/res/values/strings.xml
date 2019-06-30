@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="default_value">N/D</string>
+    <string name="city_name_hint">city name</string>
+    <string name="search_button_title">search</string>
+    <string name="history_title">history</string>
+    <string name="coords_n_e">%1$.2fN, %2$.2fE</string>
+    <string name="coords_n_w">%1$.2fN, %2$.2fW</string>
+    <string name="coords_s_e">%1$.2fS, %2$.2fE</string>
+    <string name="coords_s_w">%1$.2fS, %2$.2fW</string>
+    <string name="desc_title">Description</string>
+    <string name="temp_degree_end">%1$.2f\u00B0 C</string>
+    <string name="press_end">%1$d hPa</string>
+    <string name="percent_end">%1$d%%</string>
+    <string name="speed_end">%1$.2f m/s</string>
+    <string name="degree_end">%1$d\u00B0</string>
+    <string name="temp_title">Temperature</string>
+    <string name="min_temp_title">Min.</string>
+    <string name="curr_temp_title">Curr.</string>
+    <string name="max_temp_title">Max.</string>
+    <string name="press_title">Pressure</string>
+    <string name="humi_title">Humidity</string>
+    <string name="wind_title">Wind</string>
+    <string name="wind_speed_title">Speed</string>
+    <string name="wind_degree_title">Degree</string>
+    <string name="clouds_title">Clouds</string>
+    <string name="error_no_data">No data was found</string>
+    <string name="error_no_connection">No connection</string>
+    <string name="error_wrong_input">Wrong input format</string>
+    <string name="error_general">An error occurred</string>
+    <string name="caching_file_name">CitiesHistory</string>
+    <string name="details_city_and_country">%1$s, %2$s</string>
+</resources>
