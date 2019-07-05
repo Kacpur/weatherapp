@@ -1,4 +1,4 @@
-package com.example.weatherapp.utils
+package com.kapcur.weatherapp.utils
 
 import java.util.regex.Pattern
 

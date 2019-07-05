@@ -1,12 +1,12 @@
-package com.example.weatherapp.views
+package com.kapcur.weatherapp.views
 
 import android.graphics.Color
 import android.graphics.drawable.AnimationDrawable
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
-import com.example.weatherapp.R
-import com.example.weatherapp.data.weather_data.WeatherPack
+import com.kapcur.weatherapp.R
+import com.kapcur.weatherapp.data.weather_data.WeatherPack
 import kotlinx.android.synthetic.main.activity_details.*
 import kotlin.math.abs
 import java.text.SimpleDateFormat

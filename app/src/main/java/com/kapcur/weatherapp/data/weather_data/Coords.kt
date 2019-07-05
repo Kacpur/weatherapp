@@ -1,4 +1,4 @@
-package com.example.weatherapp.data.weather_data
+package com.kapcur.weatherapp.data.weather_data
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable

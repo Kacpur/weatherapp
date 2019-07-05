@@ -1,6 +1,6 @@
-package com.example.weatherapp.data
+package com.kapcur.weatherapp.data
 
-import com.example.weatherapp.utils.CacheHandler
+import com.kapcur.weatherapp.utils.CacheHandler
 
 object CitiesHistory {
         val citiesList = ArrayList<String>()

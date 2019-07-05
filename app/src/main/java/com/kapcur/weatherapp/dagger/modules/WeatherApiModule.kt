@@ -1,7 +1,7 @@
-package com.example.weatherapp.dagger.modules
+package com.kapcur.weatherapp.dagger.modules
 
-import com.example.weatherapp.api.WeatherApi
-import com.example.weatherapp.api.WeatherApiInterceptor
+import com.kapcur.weatherapp.api.WeatherApi
+import com.kapcur.weatherapp.api.WeatherApiInterceptor
 import com.google.gson.Gson
 import dagger.Module
 import dagger.Provides

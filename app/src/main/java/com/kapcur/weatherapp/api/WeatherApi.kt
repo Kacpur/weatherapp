@@ -1,6 +1,6 @@
-package com.example.weatherapp.api
+package com.kapcur.weatherapp.api
 
-import com.example.weatherapp.data.weather_data.WeatherPack
+import com.kapcur.weatherapp.data.weather_data.WeatherPack
 import retrofit2.http.GET
 import retrofit2.http.Query
 import retrofit2.Call

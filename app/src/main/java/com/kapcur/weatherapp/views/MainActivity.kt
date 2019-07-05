@@ -1,8 +1,8 @@
-package com.example.weatherapp.views
+package com.kapcur.weatherapp.views
 
 import android.content.Intent
 import android.graphics.drawable.AnimationDrawable
-import com.example.weatherapp.utils.InputValidator
+import com.kapcur.weatherapp.utils.InputValidator
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.content.ContextCompat
@@ -12,12 +12,12 @@ import android.view.View.FIND_VIEWS_WITH_TEXT
 import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.Toast
-import com.example.weatherapp.R
-import com.example.weatherapp.dagger.components.DaggerWeatherApiComponent
-import com.example.weatherapp.dagger.modules.WeatherApiModule
-import com.example.weatherapp.data.CitiesHistory
-import com.example.weatherapp.data.weather_data.*
-import com.example.weatherapp.presenter.MainPresenter
+import com.kapcur.weatherapp.R
+import com.kapcur.weatherapp.dagger.components.DaggerWeatherApiComponent
+import com.kapcur.weatherapp.dagger.modules.WeatherApiModule
+import com.kapcur.weatherapp.data.CitiesHistory
+import com.kapcur.weatherapp.data.weather_data.*
+import com.kapcur.weatherapp.presenter.MainPresenter
 import com.github.pwittchen.reactivenetwork.library.rx2.ReactiveNetwork
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable

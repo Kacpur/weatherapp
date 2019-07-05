@@ -1,4 +1,4 @@
-package com.example.weatherapp.dagger.components
+package com.kapcur.weatherapp.dagger.components
 
 import com.example.weatherapp.dagger.modules.WeatherApiModule
 import com.example.weatherapp.presenter.MainPresenter

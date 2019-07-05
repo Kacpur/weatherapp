@@ -1,4 +1,4 @@
-package com.example.weatherapp.dagger.modules
+package com.kapcur.weatherapp.dagger.modules
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder

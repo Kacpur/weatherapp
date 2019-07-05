@@ -1,6 +1,6 @@
-package com.example.weatherapp.views
+package com.kapcur.weatherapp.views
 
-import com.example.weatherapp.data.weather_data.WeatherPack
+import com.kapcur.weatherapp.data.weather_data.WeatherPack
 
 interface MainView {
     fun setLoader(flag: Boolean)
